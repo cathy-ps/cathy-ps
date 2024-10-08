@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cathy-ps)
 
 🐈 Cathy | A final year student in Software Engineering <br>
 💭 Always amazed by new sprouting, growing programming languages and technologies <br>
@@ -14,4 +15,4 @@
 📫 How to reach me: sey948@gmail.com
 -->
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cathy-ps)
+
