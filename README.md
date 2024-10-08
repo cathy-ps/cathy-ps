@@ -13,3 +13,5 @@
 💬 Ask me about ...
 📫 How to reach me: sey948@gmail.com
 -->
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cathy-ps)
