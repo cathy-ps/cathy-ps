@@ -10,8 +10,8 @@
 🌱 I’m currently learning : AI, Vue, Flutter <br>
 ⚡ Fun fact: I am passionate about being sustainable, cats, and the opportunity to learn about anything~~
 
-Connect with me here >> <a href="www.linkedin.com/in/cathy-ps>LinkedIn</a>
-Check out my <a href="https://cathy-ps.github.io/">portfolio</a>
+Connect with me here <a href="www.linkedin.com/in/cathy-ps">LinkedIn</a>! 
+Also, do check out my <a href="https://cathy-ps.github.io/">Portfolio</a>~
 </span>
 <!-- 
 👯 I’m looking to collaborate on ...
