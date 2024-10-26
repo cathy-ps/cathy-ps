@@ -9,6 +9,9 @@
 💙 What I learnt: Java, Python, SQL, HTML, CSS, JavaScript, PHP, Kotlin, C#, Scala <br>
 🌱 I’m currently learning : AI, Vue, Flutter <br>
 ⚡ Fun fact: I am passionate about being sustainable, cats, and the opportunity to learn about anything~~
+
+Connect with me here >> <a href="www.linkedin.com/in/cathy-ps>LinkedIn</a>
+Check out my <a href="https://cathy-ps.github.io/">portfolio</a>
 </span>
 <!-- 
 👯 I’m looking to collaborate on ...
